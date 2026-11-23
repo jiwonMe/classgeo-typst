@@ -1,0 +1,7 @@
+[package]
+name = "classgeo"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["ClassGeo contributors"]
+description = "Embed ClassGeo geometry diagrams as vector images."
+compiler = "0.15.0"
